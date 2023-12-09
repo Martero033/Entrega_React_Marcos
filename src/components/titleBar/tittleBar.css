@@ -1,0 +1,16 @@
+.title-bar-light {
+  background-color: #bebebe;
+  padding: 50px;
+  color: #313131;
+  font-size: 2rem;
+  text-align: center;
+  position: relative;
+}
+.title-bar-dark {
+  background-color: #313131;
+  padding: 50px;
+  color: #bebebe;
+  font-size: 2rem;
+  text-align: center;
+  position: relative;
+}

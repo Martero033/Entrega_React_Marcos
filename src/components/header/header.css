@@ -1,0 +1,8 @@
+header .header__container{
+    display: flex;
+    gap: 30px;
+    height: 90px;
+    padding-block: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
